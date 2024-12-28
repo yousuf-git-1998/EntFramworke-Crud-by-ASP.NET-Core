@@ -1,0 +1,105 @@
+﻿@model IEnumerable<Project>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3 class="display-1" style="font-size: 2.50rem">Workers</h3>
+        <div class="d-flex justify-content-end mb-1">
+            <a class="btn btn-primary btn-sm" asp-action="Create" asp-controller="Projects"><i class="fa fa-plus"></i> Create</a>
+        </div>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>ProjectName</th>
+                    <th> ProjectType</th>
+                    <th>StartDate</th>
+                    <th>ProjectCost</th>
+
+                    <th>In Stock</th>
+                    <th> IsCompleted</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var w in Model)
+                {
+                    <tr>
+                        <td>
+                            <img src="~/Pictures/@w.Picture" class="rounded-circle" style="width:50px" />
+                        </td>
+                        <td>@w.ProjectName</td>
+                        <td>@w.ProjectType</td>
+
+
+                        <td>@(w.StartDate?.ToString("yyyy-MM-dd"))</td>
+                        <td>@w.ProjectCost?.ToString("0.00")</td>
+                        <td>@(w.IsCompleted ? "Yes" : "No")</td>
+                        <td>
+                            <a title="Edit this item" class="btn btn-primary btn-sm" asp-action="Edit" asp-controller="Projects" asp-route-id="@w.ProjectId"><i class="fa fa-pencil">Edit</i></a>
+                            <button title="Delete this item" type="button" class="btn btn-danger btn-sm del" data-pk="@w.ProjectId"><i class="fa fa-trash"></i>Delete</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="7">
+                            <h4>WorkLogs</h4>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>Worker</th>
+                                        <th>PhoneNumber</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var wl in w.Workers)
+                                    {
+                                        <tr>
+                                            <td>@wl.WorkerName</td>
+                                            <td>@wl.PhoneNumber</td>
+
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="d-flex justify-content-end">
+            <ul class="pagination pagination-sm">
+                @if (ViewBag.CurrentPage > 1)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-action="Index" asp-controller="Workers" asp-route-pg="@(ViewBag.CurrentPage - 1)"><i class="fa fa-angle-left"></i></a>
+                    </li>
+                }
+                @for (var i = 1; i <= ViewBag.TotalPages; i++)
+                {
+                    if (ViewBag.CurrentPage == i)
+                    {
+                        <li class="page-item active">
+                            <a class="page-link" asp-action="Index" asp-controller="Workers" asp-route-pg="@i">@i</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item">
+                            <a class="page-link" asp-action="Index" asp-controller="Workers" asp-route-pg="@i">@i</a>
+                        </li>
+                    }
+                }
+                @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-action="Index" asp-controller="Workers" asp-route-pg="@(ViewBag.CurrentPage + 1)"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>
+

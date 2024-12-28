@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mev_8.props" />
+</Project>

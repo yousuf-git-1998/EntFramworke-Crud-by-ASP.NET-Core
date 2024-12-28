@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\viewmodels\\projectinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\viewmodels\\projectinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\migrations\\20240928125725_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\migrations\\20240928125725_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\views\\projects\\grouping.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\views\\projects\\grouping.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\views\\projects\\groupingresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\views\\projects\\groupingresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\viewmodels\\groupeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\viewmodels\\groupeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\views\\projects\\aggregates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\views\\projects\\aggregates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\LAB104-14\\Shared\\Evidence_Mid_08\\R59_Mid_08_Ev\\R59_Mid_08_Ev\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|g:\\r59~~isdb - asp.net\\moduel-10\\yousuf_1281533\\mev_8\\mev_8\\mev_8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75785D7A-A18B-4C13-B0DC-EA1C5D61F03D}|mev_8\\mev_8.csproj|solutionrelative:mev_8\\mev_8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grouping.cshtml",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Projects\\Grouping.cshtml",
+              "RelativeDocumentMoniker": "mev_8\\Views\\Projects\\Grouping.cshtml",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Projects\\Grouping.cshtml",
+              "RelativeToolTip": "mev_8\\Views\\Projects\\Grouping.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T14:24:55.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbModel.cs",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Models\\DbModel.cs",
+              "RelativeDocumentMoniker": "mev_8\\Models\\DbModel.cs",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Models\\DbModel.cs",
+              "RelativeToolTip": "mev_8\\Models\\DbModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:24:45.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "mev_8\\Controllers\\ProjectsController.cs",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "mev_8\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAlwFUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:24:45.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Projects\\Create.cshtml",
+              "RelativeDocumentMoniker": "mev_8\\Views\\Projects\\Create.cshtml",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Projects\\Create.cshtml",
+              "RelativeToolTip": "mev_8\\Views\\Projects\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAE0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T15:08:51.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240928125725_InitialCreate.cs",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Migrations\\20240928125725_InitialCreate.cs",
+              "RelativeDocumentMoniker": "mev_8\\Migrations\\20240928125725_InitialCreate.cs",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Migrations\\20240928125725_InitialCreate.cs",
+              "RelativeToolTip": "mev_8\\Migrations\\20240928125725_InitialCreate.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:24:45.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Projects\\Index.cshtml",
+              "RelativeDocumentMoniker": "mev_8\\Views\\Projects\\Index.cshtml",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Projects\\Index.cshtml",
+              "RelativeToolTip": "mev_8\\Views\\Projects\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T13:24:45.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectInputModel.cs",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\ViewModels\\ProjectInputModel.cs",
+              "RelativeDocumentMoniker": "mev_8\\ViewModels\\ProjectInputModel.cs",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\ViewModels\\ProjectInputModel.cs",
+              "RelativeToolTip": "mev_8\\ViewModels\\ProjectInputModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:24:45.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Aggregates.cshtml",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Projects\\Aggregates.cshtml",
+              "RelativeDocumentMoniker": "mev_8\\Views\\Projects\\Aggregates.cshtml",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Projects\\Aggregates.cshtml",
+              "RelativeToolTip": "mev_8\\Views\\Projects\\Aggregates.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T13:40:00.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupingResult.cshtml",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Projects\\GroupingResult.cshtml",
+              "RelativeDocumentMoniker": "mev_8\\Views\\Projects\\GroupingResult.cshtml",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Projects\\GroupingResult.cshtml",
+              "RelativeToolTip": "mev_8\\Views\\Projects\\GroupingResult.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T15:23:37.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupedData.cs",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\ViewModels\\GroupedData.cs",
+              "RelativeDocumentMoniker": "mev_8\\ViewModels\\GroupedData.cs",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\ViewModels\\GroupedData.cs",
+              "RelativeToolTip": "mev_8\\ViewModels\\GroupedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:27:56.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mev_8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mev_8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T13:24:45.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mev_8\\Views\\_ViewImports.cshtml",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mev_8\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T13:24:45.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mev_8\\Views\\_ViewStart.cshtml",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mev_8\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T13:24:45.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mev_8\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mev_8\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:24:45.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mev_8\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mev_8\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T13:24:45.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\appsettings.json",
+              "RelativeDocumentMoniker": "mev_8\\appsettings.json",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\appsettings.json",
+              "RelativeToolTip": "mev_8\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T13:24:45.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Program.cs",
+              "RelativeDocumentMoniker": "mev_8\\Program.cs",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\Program.cs",
+              "RelativeToolTip": "mev_8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:24:45.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\LAB104-14\\Shared\\Evidence_Mid_08\\R59_Mid_08_Ev\\R59_Mid_08_Ev\\Program.cs",
+              "ToolTip": "\\\\LAB104-14\\Shared\\Evidence_Mid_08\\R59_Mid_08_Ev\\R59_Mid_08_Ev\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:26:17.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "mev_8.csproj",
+              "DocumentMoniker": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\mev_8.csproj",
+              "RelativeDocumentMoniker": "mev_8\\mev_8.csproj",
+              "ToolTip": "G:\\R59~~ISDB - ASP.NET\\Moduel-10\\Yousuf_1281533\\mev_8\\mev_8\\mev_8.csproj",
+              "RelativeToolTip": "mev_8\\mev_8.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T13:24:45.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

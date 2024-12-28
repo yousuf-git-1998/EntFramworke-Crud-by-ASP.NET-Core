@@ -1,0 +1,48 @@
+﻿@model IEnumerable<GroupedData<Project>>
+@{
+    ViewData["Title"] = "GroupingResult";
+}
+
+<div class="row">
+    <div class="col-12">
+        @foreach (var g in Model)
+        {
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Group by</th>
+                        <th>Result</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@g.Key</td>
+                        <td>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>Project</th>
+                                        <th>Type</th>
+                                        <th>Cost</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var d in g.Items)
+                                    {
+                                        <tr>
+                                            <td>@d.ProjectName</td>
+                                            <td>@d.ProjectType</td>
+                                            <td>@d.ProjectCost</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+

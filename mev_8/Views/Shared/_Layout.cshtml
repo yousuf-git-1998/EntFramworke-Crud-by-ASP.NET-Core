@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=Project-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/libs/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("styles", false)
+
+    <style>
+        body{
+            padding-top:70px;
+        }
+    </style>
+
+</head>
+<body>
+   <nav class="navbar navbar-light bg-light navbar-expand-md fixed-top shadow-sm">
+       <div class="container-fluid">
+           <span class="navbar-brand">Evidence Mid 08</span>
+            <div class="navbar-collapse">
+                <ul class="navbar-nav ms-auto">
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="Home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="Projects">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Aggregates" asp-controller="Projects">Aggregates</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Grouping" asp-controller="Projects">Grouping</a>
+                    </li>
+                </ul>
+            </div>
+       </div>
+   </nav>
+    <div class="container-fluid">
+        @RenderBody()
+    </div>
+    <footer class="container-fluid">
+        <p>Footer</p>
+    </footer>
+    @await RenderSectionAsync("scripts", false)
+</body>
+</html>
+

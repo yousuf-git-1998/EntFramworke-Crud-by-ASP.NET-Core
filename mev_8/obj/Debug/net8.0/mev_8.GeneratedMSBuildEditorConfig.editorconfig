@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = mev_8
+build_property.RootNamespace = mev_8
+build_property.ProjectDir = G:\R59~~ISDB - ASP.NET\Moduel-10\Yousuf_1281533\mev_8\mev_8\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\R59~~ISDB - ASP.NET\Moduel-10\Yousuf_1281533\mev_8\mev_8
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[G:/R59~~ISDB - ASP.NET/Moduel-10/Yousuf_1281533/mev_8/mev_8/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/R59~~ISDB - ASP.NET/Moduel-10/Yousuf_1281533/mev_8/mev_8/Views/Projects/Aggregates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcQWdncmVnYXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/R59~~ISDB - ASP.NET/Moduel-10/Yousuf_1281533/mev_8/mev_8/Views/Projects/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/R59~~ISDB - ASP.NET/Moduel-10/Yousuf_1281533/mev_8/mev_8/Views/Projects/Grouping.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcR3JvdXBpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/R59~~ISDB - ASP.NET/Moduel-10/Yousuf_1281533/mev_8/mev_8/Views/Projects/GroupingResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcR3JvdXBpbmdSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/R59~~ISDB - ASP.NET/Moduel-10/Yousuf_1281533/mev_8/mev_8/Views/Projects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/R59~~ISDB - ASP.NET/Moduel-10/Yousuf_1281533/mev_8/mev_8/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/R59~~ISDB - ASP.NET/Moduel-10/Yousuf_1281533/mev_8/mev_8/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/R59~~ISDB - ASP.NET/Moduel-10/Yousuf_1281533/mev_8/mev_8/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
